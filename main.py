@@ -1,6 +1,6 @@
 import speech_recognition as sr
-import datetime
-import pyautogui
+#import datetime
+#import pyautogui
 import pyttsx3
 import keyboard
 import subprocess
@@ -52,4 +52,5 @@ while True:
             print('abrindo marvel rivals')
             steamgame(2767030)
 
+#fazer a transcrição de voz para texto
 
